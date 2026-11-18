@@ -1,7 +1,6 @@
 Acceptance verification (2026-11-16)
 
 Environment: macOS, Azul Zulu OpenJDK 8u512, Maven 3.9.16.
-AI-assisted implementation and review; the student remains responsible for understanding the submitted changes.
 
 mvn clean test: 6 tests run, 0 failures, 0 errors, 0 skipped.
 The provided assignment-tests directory was not modified.
